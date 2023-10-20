@@ -1,5 +1,5 @@
 resource "aws_security_group" "demo-sg" {
-name = "jain-sec"
+name = "sakshi-sec"
 description = "it allows ssh, all, http"
 ingress {
 from_port = 80
